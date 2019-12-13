@@ -1,3 +1,5 @@
+## *NOTE*: This repository is no longer maintained. Please see [this repo](https://github.com/saucelabs-sample-test-frameworks/Python-Pytest-Appium-iOS) for an up-to-date example.
+
 # Appium-Python-iOS-Real-Device
 Python Scripts for Testing Websites and Native Applications for iOS on Real Devices with Appium
 
